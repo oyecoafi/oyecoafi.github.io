@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oyecoafi.github.io/KAI/sitemap_index.txt
+Sitemap: https://oyecoafi.github.io/Smg/sitemap_index.txt
+Sitemap: https://oyecoafi.github.io/nAc/sitemap_index.txt
+Sitemap: https://oyecoafi.github.io/sQl/sitemap_index.txt
